@@ -12,3 +12,5 @@ let userDetail :{name:string,age:number} = {
     name:"Shakil",
     age:22
 }
+
+
